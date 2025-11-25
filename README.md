@@ -1,4 +1,4 @@
-# Cardinex – ZK-Private Cardiology AI - please vote for us in Fund-15🫡🙏
+# Cardinex – ZK-Private Cardiology AI - please vote for us in Fund-15🙏
 
 Cardiology AI relies on rich ECG and PPG datasets, but hospitals face a crucial limitation: sharing physiological data often means exposing patient identities or sensitive clinical histories. Even with anonymisation, health providers remain concerned about regulatory risk, cross-border compliance, and the permanent nature of digital data leakage. This prevents clinics from contributing to shared datasets, and locks advanced AI models away from the medical teams that need them most.
 
