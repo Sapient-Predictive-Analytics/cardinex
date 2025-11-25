@@ -47,10 +47,6 @@ Cardiac MRI (CMR)
 - Sunnybrook Cardiac Data (LV Segmentation Challenge)
 Classic CMR dataset with LV cavity labels; often used for left-ventricular segmentation / EF estimation benchmarks. 
 
-- 
-
-- 
-
 - OCMR – Ohio State Cardiac MRI Raw Data (AWS Open Data)
 Multi-coil k-space cine MRI data, open access on AWS Registry of Open Data. Ideal if you want to play with reconstruction, compressed sensing, or generative MRI super-resolution. 
 
