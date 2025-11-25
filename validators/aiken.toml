@@ -1,0 +1,20 @@
+# Cardinex - Privacy-Preserving Medical Data Marketplace
+# Aiken Project Configuration
+#
+# DRAFT VERSION - MVP IN DEVELOPMENT
+# NOT AUDITED - DO NOT USE IN PRODUCTION
+
+name = "cardinex"
+version = "0.1.0"
+plutus = "v3"
+compiler = "v1.1.0"
+license = "MIT"
+description = "Privacy-preserving ECG data marketplace using zero-knowledge proofs on Cardano"
+
+[[dependencies]]
+name = "aiken-lang/stdlib"
+version = "2.1.0"
+source = "github"
+
+[config]
+network = "preprod"
