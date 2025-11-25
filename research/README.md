@@ -1,8 +1,6 @@
-Core open datasets in cardiology
+Used datasets:
 
-A. ECG / Arrhythmia datasets
-
-These are mostly accessible via PhysioNet, a central hub for physiological data.
+ECG / Arrhythmia datasets
 
 MIT-BIH Arrhythmia DatabaseThe grand-daddy of ECG ML. 48 half-hour, 2-lead Holter recordings from 47 subjects, beat-level annotations, used in hundreds of arrhythmia papers. 
 
