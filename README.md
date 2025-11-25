@@ -23,7 +23,7 @@ Cardinex makes use of [Aiken](https://github.com/aiken-lang/aiken)-based smart c
 * dataset size thresholds,
 * verification that metadata summaries accurately represent the underlying encrypted records,
 * lineage and integrity checks for auditability.
-* 
+  
 This separation of concerns—proof generation off-chain, verification on-chain—plays to Cardano’s strengths and keeps the system efficient even with modest transaction volumes.
 
 For developers and ecosystem builders, Cardinex offers a reusable blueprint: a lightweight ZK integration architecture using Cardano for provenance, access control, and settlement. For Cardano itself, this demonstrates a high-value enterprise use case in regulated healthcare, showcasing how zero-knowledge proofs can enable new categories of dApps beyond DeFi and NFTs.
